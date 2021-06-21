@@ -31,6 +31,9 @@
         },
         "networkAclsDefaultAction": {
             "value": "Allow"
+        },
+        "password": {
+            "value": "Thisismysecretpassword"
         }
     }
 }
